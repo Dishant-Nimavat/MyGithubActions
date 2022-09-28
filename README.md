@@ -1,2 +1,2 @@
 # MyGithubActions
-This repo is made for practicing GitHub Actions
+This repository is made for practicing GitHub Actions
